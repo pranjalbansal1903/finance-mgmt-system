@@ -1,6 +1,6 @@
 🧾 Personal Finance Manager
 
-A full-stack Spring Boot application that helps users manage their daily and monthly expenses with secure access, insightful reporting, and performance optimizations.
+Backend of a Spring Boot application that helps users manage their daily and monthly expenses with secure access, insightful reporting, and performance optimizations.
 
 🚀 Features
 
